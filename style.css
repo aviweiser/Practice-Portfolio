@@ -1,0 +1,66 @@
+body {
+    font-family: "Avenir Next";
+  }
+  
+  
+  li {
+    list-style: none;
+  }
+  
+  .header {
+    background-color: #bddbe8;
+    background-image: url(vintageflowers.jpg);
+    background-size: auto;
+    height: 90px;
+
+  }
+  .header-logo {
+    font-size: 55px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    padding: 10px;
+    color: rgb(113, 61, 2);
+    font-style: italic;
+    font-weight: bold;
+  }
+  
+  .header-list li{
+    float: left;
+    padding: 33px 20px; 
+  }
+  
+    
+  .main {
+     padding: 100px 80px;
+  }
+  
+  .copy-container h1 {
+    font-size: 140px;
+  }
+  
+  .copy-container h2 {
+    font-size: 60px;
+    color: rgb(113, 61, 2);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+  }
+  
+
+  .footer {
+    background-color: #2f5167;
+    color: #fff;
+    height: 300px;
+    padding-left: 20px;
+  }
+   
+  .footer-logo {
+    font-size: 25px;
+    float: left;
+  }
+  .footer-list {
+    float: right;
+  }
+  
+  .footer-list li{
+     padding-bottom: 20px;
+  }
